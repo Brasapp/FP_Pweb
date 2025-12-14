@@ -1,0 +1,12 @@
+[07-Dec-2025 11:27:04 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting end of file in /home/jvfafdzr/public_html/config/database.php on line 25
+[07-Dec-2025 11:27:05 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting end of file in /home/jvfafdzr/public_html/config/database.php on line 25
+[07-Dec-2025 11:27:06 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting end of file in /home/jvfafdzr/public_html/config/database.php on line 25
+[07-Dec-2025 11:27:07 UTC] PHP Parse error:  syntax error, unexpected 'private' (T_PRIVATE), expecting end of file in /home/jvfafdzr/public_html/config/database.php on line 25
+[07-Dec-2025 11:31:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function requireLogin() in /home/jvfafdzr/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 3
+[07-Dec-2025 11:31:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function requireLogin() in /home/jvfafdzr/public_html/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/jvfafdzr/public_html/index.php on line 3
